@@ -17,9 +17,9 @@ This application allows users to interact with a virtual rice cooker, performing
 The application is implemented in different programming languages, each residing in a separate branch. Choose the branch corresponding to your preferred language:
 
 
-- **Go**
-- **Typescript**
-- **Ruby**
+- [**Go**](https://github.com/hei-school/cc-d4-rice-cooker-ci-ReichmannGaly/tree/feature/go)
+- [**Typescript**](https://github.com/hei-school/cc-d4-rice-cooker-ci-ReichmannGaly/tree/feature/typescript)
+- [**Ruby**](https://github.com/hei-school/cc-d4-rice-cooker-ci-ReichmannGaly/tree/feature/ruby)
 - **Swift**
 
 Feel free to explore the language-specific branches to access the codebase in your preferred programming language.
