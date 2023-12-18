@@ -32,7 +32,7 @@ Before running the application, ensure that you have Go installed on your system
     ```bash
     cd cc-d2-my-rice-cooker-ReichmannGaly/
 
-    git checkout feature/Go
+    git checkout feature/go
 
 3.  Run the tests:
     ```bash
