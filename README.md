@@ -32,7 +32,7 @@ Before running the application, ensure that you have Node.js and Typescript inst
     ```bash
     cd cc-d2-my-rice-cooker-ReichmannGaly/
 
-    git checkout feature/Typescript
+    git checkout feature/typescript
 
 3. Install dependencies:
     ```bash
