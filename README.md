@@ -24,13 +24,13 @@ Before running the application, ensure that you have Go installed on your system
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/hei-school/cc-d2-my-rice-cooker-ReichmannGaly.git
+    git clone https://github.com/hei-school/cc-d4-rice-cooker-ci-ReichmannGaly.git
 
 
 2. Navigate to the Ruby branch:
 
     ```bash
-    cd cc-d2-my-rice-cooker-ReichmannGaly/
+    cd cc-d4-rice-cooker-ci-ReichmannGaly/
 
     git checkout feature/go
 
