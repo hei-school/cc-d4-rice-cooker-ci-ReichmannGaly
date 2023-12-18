@@ -38,11 +38,15 @@ Before running the application, ensure that you have Node.js and Typescript inst
     ```bash
     npm install
 
-4. Run the typescript **main.ts** file:
+4. Run the tests:
+    ```bash
+    npm test
+
+5. Run the typescript **main.ts** file:
     ```bash
     npx ts-node .\main.ts 
 
-5. Follow the on-screen prompts to manage your rice cooker items efficiently.
+6. Follow the on-screen prompts to manage your rice cooker items efficiently.
 
 ---
 
