@@ -1,0 +1,5 @@
+.bundle/
+.cache/
+.replit/
+.upm/
+.local
